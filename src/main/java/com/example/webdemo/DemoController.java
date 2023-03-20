@@ -12,7 +12,7 @@ import javax.jms.Queue;
 import java.util.ArrayList;
 import java.util.List;
 
-@RestController
+//@RestController
 public class DemoController {
     @Autowired
     PersonRepository personRepository;
